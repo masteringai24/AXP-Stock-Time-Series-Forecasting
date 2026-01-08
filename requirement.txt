@@ -1,0 +1,8 @@
+numpy=2.3.5
+pandas=2.3.3
+plotly=6.5.0
+nbformat=5.10.4
+statsmodel=0.14.6
+matplotlib=3.10.8
+xgboost=3.1.2
+scikit-learn=1.8.0
